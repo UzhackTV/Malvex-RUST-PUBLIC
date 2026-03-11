@@ -1,0 +1,168 @@
+{
+  "API configuration": {
+    "Store ID": "54645",
+    "Server ID": "41881",
+    "Secret key (don't spread it)": "9ff7e746c615912983f3a7b8f4b68144"
+  },
+  "Plugin Configuration": {
+    "Commands to open the store": [
+      "store",
+      "bucket"
+    ],
+    "Enable show joining players in server tags": false,
+    "Load default images over client": true,
+    "Use Building Blocked?": false,
+    "Use Combat Blocked?": false,
+    "Use Raid Blocked?": false,
+    "Execute instant commands if the player was not on the server?": true
+  },
+  "UI Configuration": {
+    "Enable cart image": true,
+    "Enable display of item names": true,
+    "Link to cart image (BUCKET - default image)": "BUCKET",
+    "Number of items per line": 7,
+    "Number of lines in the interface": 3,
+    "Side of one item": 150,
+    "Space between objects": 5,
+    "Position settings cart image": {
+      "AnchorMin": "0 1",
+      "AnchorMax": "0 1",
+      "OffsetMin": "8 -40",
+      "OffsetMax": "43 -6"
+    },
+    "Background settings": {
+      "Display type (Overlay/Hud)": "Overlay",
+      "Sprite": "",
+      "Material": "assets/content/ui/uibackgroundblur.mat",
+      "Image": "",
+      "Color": {
+        "Opacity (0 - 100)": 80.0,
+        "HEX": "#000000"
+      },
+      "AnchorMin": "0 0",
+      "AnchorMax": "1 1",
+      "OffsetMin": "0 0",
+      "OffsetMax": "0 0"
+    },
+    "Basket title settings": {
+      "Button Color": {
+        "Opacity (0 - 100)": 0.0,
+        "HEX": "#000000"
+      },
+      "Sprite": "",
+      "Material": "",
+      "Image": "",
+      "Image Color": {
+        "Opacity (0 - 100)": 100.0,
+        "HEX": "#FFFFFF"
+      },
+      "Font Size": 32,
+      "Is Bold?": false,
+      "Align": "MiddleCenter",
+      "Color": {
+        "Opacity (0 - 100)": 60.0,
+        "HEX": "#FFFFFF"
+      },
+      "AnchorMin": "0.3 0.9",
+      "AnchorMax": "0.7 1",
+      "OffsetMin": "0 0",
+      "OffsetMax": "0 0"
+    },
+    "Basket description settings": {
+      "Font Size": 14,
+      "Is Bold?": false,
+      "Align": "UpperCenter",
+      "Color": {
+        "Opacity (0 - 100)": 40.0,
+        "HEX": "#FFFFFF"
+      },
+      "AnchorMin": "0 0",
+      "AnchorMax": "1 0",
+      "OffsetMin": "0 -0",
+      "OffsetMax": "0 20"
+    },
+    "Help button settings": {
+      "Button Color": {
+        "Opacity (0 - 100)": 0.0,
+        "HEX": "#000000"
+      },
+      "Sprite": "",
+      "Material": "",
+      "Image": "",
+      "Image Color": {
+        "Opacity (0 - 100)": 100.0,
+        "HEX": "#FFFFFF"
+      },
+      "Font Size": 28,
+      "Is Bold?": false,
+      "Align": "MiddleLeft",
+      "Color": {
+        "Opacity (0 - 100)": 100.0,
+        "HEX": "#FFFFFF"
+      },
+      "AnchorMin": "0.065 0.9",
+      "AnchorMax": "0.2 1",
+      "OffsetMin": "0 0",
+      "OffsetMax": "0 0"
+    },
+    "Block panel settings": {
+      "Sprite": "",
+      "Material": "",
+      "Image": "",
+      "Color": {
+        "Opacity (0 - 100)": 0.0,
+        "HEX": "#000000"
+      },
+      "AnchorMin": "0 0",
+      "AnchorMax": "1 0.9",
+      "OffsetMin": "0 0",
+      "OffsetMax": "0 0"
+    },
+    "Request processing title settings": {
+      "Font Size": 34,
+      "Is Bold?": false,
+      "Align": "MiddleCenter",
+      "Color": {
+        "Opacity (0 - 100)": 100.0,
+        "HEX": "#FFFFFF"
+      },
+      "AnchorMin": "0 0",
+      "AnchorMax": "1 1.1",
+      "OffsetMin": "0 0",
+      "OffsetMax": "0 0"
+    },
+    "Store exit button settings": {
+      "Button Color": {
+        "Opacity (0 - 100)": 0.0,
+        "HEX": "#000000"
+      },
+      "Sprite": "",
+      "Material": "",
+      "Image": "",
+      "Image Color": {
+        "Opacity (0 - 100)": 100.0,
+        "HEX": "#FFFFFF"
+      },
+      "Font Size": 28,
+      "Is Bold?": false,
+      "Align": "MiddleRight",
+      "Color": {
+        "Opacity (0 - 100)": 100.0,
+        "HEX": "#FFFFFF"
+      },
+      "AnchorMin": "0.8 0.9",
+      "AnchorMax": "0.935 1",
+      "OffsetMin": "0 0",
+      "OffsetMax": "0 0"
+    },
+    "Item background color": {
+      "Opacity (0 - 100)": 20.0,
+      "HEX": "#FFFFFF"
+    }
+  },
+  "ConfigurationVersion": {
+    "Major": 2,
+    "Minor": 0,
+    "Patch": 0
+  }
+}
